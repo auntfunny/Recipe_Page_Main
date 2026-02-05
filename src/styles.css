@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-accwhite: hsl(0, 0%, 100%);
+  --color-Stone1: hsl(30, 54%, 90%);
+  --color-Stone2: hsl(30, 18%, 87%);
+  --color-Stone3: hsl(30, 10%, 34%);
+  --color-Stone4: hsl(24, 5%, 18%);
+  --color-accbrown: hsl(14, 45%, 36%);
+  --color-accrd: hsl(332, 51%, 32%);
+  --color-accrl: hsl(330, 100%, 98%);
+
+  --font-outfit: "Outfit", sans-serif;
+  --font-young: "Young Serif", serif;
+}
